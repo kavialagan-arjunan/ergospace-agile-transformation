@@ -1,0 +1,41 @@
+{
+  "component_name": "B2B_Smart_Product_Tile",
+  "version": "2.1",
+  "design_reference": "quad-workstation-card",
+  "objective": "Display high-density variant data on the PLP (Product Listing Page) to reduce click friction for B2B buyers.",
+  
+  "data_contract": {
+    "product_id": "ERGO-QUAD-06",
+    "title": "Color Contemporary Design Six Person Workstations With Planter Box",
+    
+    "visual_hierarchy": {
+      "primary_image": "quad_6_person_iso.webp",
+      "hover_image": "quad_6_person_detail.webp",
+      "image_aspect_ratio": "1:1"
+    },
+
+    "branding_overlay": {
+      "is_active": true,
+      "brand_name": "QUAD",
+      "style": {
+        "text_color": "#008080", 
+        "position": "bottom-left-image-anchor",
+        "font_weight": "900"
+      }
+    },
+
+    "pricing_module": {
+      "amount": 8800.00,
+      "currency_symbol": "د.إ",
+      "formatting": "bold-lg"
+    },
+
+    "inventory_intelligence": {
+      "has_complex_variants": true,
+      "material_count": 3,
+      "total_variants": 18,
+      "dynamic_footer_label": "Available in {material_count} materials | {total_variants} Variants",
+      "footer_alignment": "right"
+    }
+  }
+}
