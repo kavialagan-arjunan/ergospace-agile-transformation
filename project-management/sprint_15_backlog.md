@@ -18,9 +18,9 @@
 
 ---
 
-## 🛑 Blockers & Dependencies
+## Blockers & Dependencies
 * **SCRUM-12 (Quote Drawer):** Currently blocked waiting on final API documentation for the PDF generation service.
 * **SCRUM-9 (Homepage Design):** Pending final sign-off from photographers on the hero banner imagery.
 
-## 📉 Burn-down Summary
+## Summary
 We focused heavily on **Mobile Responsiveness** (`SCRUM-3`, `SCRUM-6`) and **SEO Foundations** (`SCRUM-16`, `SCRUM-24`) in this sprint to ensure the site was indexable immediately upon launch.
