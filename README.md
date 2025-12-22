@@ -34,7 +34,7 @@ This repository documents the complete digital overhaul of the Ergospace B2B mar
 **Role:** Scrum Master & Product Owner
 **Process:** Transitioned the team from ad-hoc waterfall tasks to structured 2-week sprints using Jira.
 * **Backlog Management:** Responsible for grooming user stories, defining acceptance criteria, and managing blockers for a cross-functional team (Frontend, Backend, QA).
-* **Documentation:** [View Sprint 30 Backlog Export](/project-management/sprint_0_backlog.md)
+* **Documentation:** [View Sprint 30 Backlog Export](/project-management/sprint_30_backlog.md)
 
 ---
 
