@@ -3,7 +3,7 @@
 **Status:** Completed
 **Velocity:** 18 Points
 
-## 📋 Sprint Backlog Export (Jira)
+## Sprint Backlog Export (Jira)
 
 | Key | Summary | Priority | Status | Assignee |
 | :--- | :--- | :--- | :--- | :--- |
