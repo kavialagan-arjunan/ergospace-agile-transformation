@@ -1,0 +1,15 @@
+Product Requirement Document: AI Mockup Generator
+Objective
+To provide a self-service tool for the Ergospace design and marketing teams to generate high-quality product lifestyle images without manual rendering.
+
+User Stories
+As a Designer, I want to upload a raw product mockup and choose an office scene so I can see the product in context instantly.
+
+As a Team Lead, I want to see a gallery of all generated images so we can maintain brand consistency across the marketplace.
+
+As a Product Manager, I want to control the output size (Square, Banner, Portrait) to ensure images fit various web and social modules.
+
+Success Metrics
+Time-to-Asset: Reduce from 14 days to <60 seconds.
+
+User Adoption: 100% of marketplace lifestyle imagery generated via internal AI tools.
