@@ -1,0 +1,12 @@
+Technical Architecture & Logic
+API Integration
+The tool uses the Gemini 2.5 Flash Image Preview API. The core logic involves a multipart prompt:
+
+Visual Data: Local files are processed via the FileReader API and passed as base64-encoded inlineData.
+
+Scene Logic: A randomized prompt engine ensures high-quality office settings (e.g., "Modern Open-Plan," "Sleek Conference Room") while explicitly excluding people to maintain a professional product focus.
+
+State Management
+Authentication: Firebase Auth manages access, ensuring only internal team members can trigger API calls.
+
+Persistence: Firestore listeners (onSnapshot) provide a real-time "Team's Generated Images" gallery for collaborative review.
