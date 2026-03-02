@@ -1,0 +1,25 @@
+AI Office Furniture Mockup Generator
+
+Business Impact
+Turnaround Efficiency: Reduced design turnaround time for lifestyle mockups by ~99% (from 2 weeks to <1 minute).
+
+Scalability: Enabled instant visualization for a catalog of 60,000+ SKUs.
+
+The Problem
+Ergospace required high-quality lifestyle imagery for its vast marketplace catalog, but manual 3D rendering and Photoshop compositing created a massive operational bottleneck.
+
+The Solution
+An internal tool built to empower the design team to generate photorealistic office environments using GenAI.
+
+Frontend: Responsive UI built with Tailwind CSS.
+
+Backend: Firebase for secure team authentication and Firestore for a shared organizational gallery.
+
+Engine: Google Gemini 2.5 Flash Image Preview API for high-fidelity image-to-image generation.
+
+Project Structure
+/app: Contains the core application index.html.
+
+/docs: Includes the Product Requirement Document (PRD) and Technical Logic.
+
+/assets: UI components and sample product mockups.
