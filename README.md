@@ -86,6 +86,7 @@ Search logic that exposes product variants and categories instantly.
 * **docs/** - Product Requirement Documents (PRDs), Design Systems, and Technical Specifications.
 * **project-management/** - Exports of Jira backlogs, sprint plans, and burndown summaries.
 * **scripts/** - Utility scripts used for data migration and performance optimization.
+* **ergospace-ai-mockup-generator/** - A new project used for generating product mockups from product datasheets.
 
 ---
 
